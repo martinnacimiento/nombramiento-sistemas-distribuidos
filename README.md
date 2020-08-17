@@ -12,4 +12,7 @@ Como se dijo antes, un nombre puede identificar o referenciar "algo", pero para 
 
 ## Esquema de resumen del capitulo
 
+- [Nombres, identificadores, direcciones](nombres.md)
 - [Nombres planos](nombres-planos.md)
+- [Nombres estructurados](nombres-estructurados.md)
+- [Nombres basados en atributos](basada-en-atributos.md)
